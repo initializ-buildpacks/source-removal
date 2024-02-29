@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/paketo-buildpacks/source-removal/logic"
+	"github.com/initializ-buildpacks/source-removal/logic"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"
