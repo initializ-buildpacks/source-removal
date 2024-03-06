@@ -1,5 +1,6 @@
 # Source Removal Cloud Native Buildpack
 
+
 This buildpack is meant to be used at the end of the buildpack order definition
 and will delete files in the application directory if either
 `$BP_INCLUDE_FILES` or `$BP_EXCLUDE_FILES`.
