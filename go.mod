@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/source-removal
+module github.com/initializ-buildpacks/source-removal
 
 go 1.21
 

@@ -3,7 +3,7 @@ package sourceremoval
 import (
 	"os"
 
-	"github.com/paketo-buildpacks/source-removal/logic"
+	"github.com/initializ-buildpacks/source-removal/logic"
 
 	"github.com/paketo-buildpacks/packit/v2"
 )

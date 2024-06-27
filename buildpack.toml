@@ -1,7 +1,7 @@
 api = "0.7"
 
 [buildpack]
-id = "paketo-buildpacks/source-removal"
+id = "initializ-buildpacks/source-removal"
 name = "Paketo Buildpack for Source Removal"
 
 [metadata]

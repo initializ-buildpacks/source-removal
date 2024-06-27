@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	sourceremoval "github.com/paketo-buildpacks/source-removal"
+	sourceremoval "github.com/initializ-buildpacks/source-removal"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/sclevine/spec"
 
