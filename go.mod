@@ -1,8 +1,6 @@
 module github.com/initializ-buildpacks/source-removal
 
-go 1.22
-
-toolchain go1.22.4
+go 1.23.2
 
 require (
 	github.com/onsi/gomega v1.33.1
